@@ -1,0 +1,16 @@
+﻿<Window x:Class="Corners.CStepDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Corners"
+        mc:Ignorable="d"
+        Title="CDialog" Height="300" Width="300"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Button x:Name="IIButton" Content="II-H" Click="StepButton_Click"  HorizontalAlignment="Left" Margin="208,35,0,0" VerticalAlignment="Top" Width="75"/>
+
+        <CheckBox x:Name="ContinueCheck" Unchecked="ContinueCheck_Unchecked" Checked="ContinueCheck_Checked"  Content="Аrtificial intelligence ^О..О^" HorizontalAlignment="Left" Margin="69,120,0,0" VerticalAlignment="Top" Height="19" Width="180"/>
+
+    </Grid>
+</Window>

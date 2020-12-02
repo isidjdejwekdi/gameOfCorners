@@ -1,0 +1,61 @@
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\bin\Debug\Corners.exe.config
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\bin\Debug\Corners.exe
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\bin\Debug\Corners.pdb
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\obj\Debug\MainWindow.g.cs
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\obj\Debug\App.g.cs
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\obj\Debug\Corners_MarkupCompile.cache
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\obj\Debug\MainWindow.baml
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\obj\Debug\Corners.g.resources
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\obj\Debug\Corners.Properties.Resources.resources
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\obj\Debug\Corners.csproj.GenerateResource.cache
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\obj\Debug\Corners.csproj.CoreCompileInputs.cache
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\obj\Debug\Corners.exe
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\obj\Debug\Corners.pdb
+C:\Users\e.m.shtykar\source\repos\Corners\Corners\obj\Debug\Corners.csprojAssemblyReference.cache
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\bin\Debug\Corners.exe.config
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\bin\Debug\Corners.exe
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\bin\Debug\Corners.pdb
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\obj\Debug\Corners.csprojResolveAssemblyReference.cache
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\obj\Debug\MainWindow.baml
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\obj\Debug\MainWindow.g.cs
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\obj\Debug\App.g.cs
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\obj\Debug\Corners_MarkupCompile.cache
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\obj\Debug\Corners.g.resources
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\obj\Debug\Corners.Properties.Resources.resources
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\obj\Debug\Corners.csproj.GenerateResource.Cache
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\obj\Debug\Corners.exe
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\obj\Debug\Corners.pdb
+C:\Users\misha\Desktop\Corners\Corners\bin\Debug\Corners.exe.config
+C:\Users\misha\Desktop\Corners\Corners\bin\Debug\Corners.exe
+C:\Users\misha\Desktop\Corners\Corners\bin\Debug\Corners.pdb
+C:\Users\misha\Desktop\Corners\Corners\obj\Debug\Corners.csprojResolveAssemblyReference.cache
+C:\Users\misha\Desktop\Corners\Corners\obj\Debug\MainWindow.baml
+C:\Users\misha\Desktop\Corners\Corners\obj\Debug\MainWindow.g.cs
+C:\Users\misha\Desktop\Corners\Corners\obj\Debug\App.g.cs
+C:\Users\misha\Desktop\Corners\Corners\obj\Debug\Corners_MarkupCompile.cache
+C:\Users\misha\Desktop\Corners\Corners\obj\Debug\Corners.g.resources
+C:\Users\misha\Desktop\Corners\Corners\obj\Debug\Corners.Properties.Resources.resources
+C:\Users\misha\Desktop\Corners\Corners\obj\Debug\Corners.csproj.GenerateResource.Cache
+C:\Users\misha\Desktop\Corners\Corners\obj\Debug\Corners.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\Corners\Corners\obj\Debug\Corners.exe
+C:\Users\misha\Desktop\Corners\Corners\obj\Debug\Corners.pdb
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\obj\Debug\Corners_MarkupCompile.lref
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\obj\Debug\CStepDialog.g.cs
+C:\Users\adi26\documents\visual studio 2017\Projects\Corners\Corners\obj\Debug\CStepDialog.baml
+C:\Users\misha\Desktop\CornersFin\Corners\bin\Debug\Corners.exe.config
+C:\Users\misha\Desktop\CornersFin\Corners\bin\Debug\Corners.exe
+C:\Users\misha\Desktop\CornersFin\Corners\bin\Debug\Corners.pdb
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\Corners.csprojResolveAssemblyReference.cache
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\MainWindow.baml
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\CStepDialog.g.cs
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\MainWindow.g.cs
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\App.g.cs
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\Corners_MarkupCompile.cache
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\Corners_MarkupCompile.lref
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\CStepDialog.baml
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\Corners.g.resources
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\Corners.Properties.Resources.resources
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\Corners.csproj.GenerateResource.Cache
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\Corners.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\Corners.exe
+C:\Users\misha\Desktop\CornersFin\Corners\obj\Debug\Corners.pdb
